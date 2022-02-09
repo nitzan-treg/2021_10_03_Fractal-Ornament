@@ -5,4 +5,4 @@ I played abit with the setup and also added rotation to every copied iteration
 everything is rendered in redshift using a single source light with alot of GI bounces
 
 <img src="Images/Node Tree.png"  >
-<img src="Images/2021_10_03_Fractal Ornament" width = 1024 >
+<img src="Images/2021_10_03_Fractal%20Ornament" width = 1024 >
